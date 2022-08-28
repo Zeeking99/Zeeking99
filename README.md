@@ -13,6 +13,7 @@ I'm Zeeshan, a Cybersecurity Student, Linux Enthusiast and a Programmer.
 
 [![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:zeeking99@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-mohammed-zeeshan-9409941a7/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Zeeking99)]
 
 ### Tech Stack
 
