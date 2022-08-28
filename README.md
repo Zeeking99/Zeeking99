@@ -4,6 +4,10 @@ I'm Zeeshan, a Cybersecurity Student, Linux Enthusiast and a Programmer.
 
 ---
 
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeking99&theme=blue-green)
+
+---
+
 - 🔭 I’m currently working on [Digital Receptionist](https://github.com/Zeeking99/GT_Digital_Receptionist).
 - 🌱 I’m currently learning Linux, Penetration Testing and improving my coding skills.
 - 🎯 I'm currently pursuing the goal of becoming a CEH.
