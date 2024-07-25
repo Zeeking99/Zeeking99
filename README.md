@@ -1,6 +1,6 @@
 # Hi there. 👋
 
-I'm Zeeshan, a Cybersecurity Student, Linux Enthusiast and a Programmer.
+I'm Zeeshan, a Cybersecurity Engineer, Linux Enthusiast and a Programmer.
 
 ---
 
